@@ -1,6 +1,6 @@
 # Yahtzee
 
-#### Object-Oriented Javascript Independent Project: Pizza company website.
+#### Group project
 
 #### By _**Ian Wilcox, Jonathan Buchner and Vichitra Pool (Note) on August 30th, 2016_
 
